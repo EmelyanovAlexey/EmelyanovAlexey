@@ -10,8 +10,8 @@
 
 ---
 
-<div id="stat" align="center" pointer-events="none" width="1000" difplay="flex">
+<div id="stat" align="center" pointer-events="none" width="100%" difplay="flex">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmelyanovAlexey&theme=jolly" alt="" width="100%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmelyanovAlexey&theme=jolly" alt="" width="502" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmelyanovAlexey&theme=jolly" alt="" width="502" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmelyanovAlexey&theme=jolly" alt="" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmelyanovAlexey&theme=jolly" alt="" width="49%" />
 </div>
